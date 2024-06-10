@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @MaratIR
-- 👀 I’m interested in Kubernetes, Helm, JS, Vue, Ci/Cd, Ansible
-- 🌱 I’m currently learning Figma
+- 👀 I’m interested in Kubernetes, Helm, JS, Vue, Ci/Cd, Ansible, Docker
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
